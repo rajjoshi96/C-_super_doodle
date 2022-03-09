@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2KIt5tXD5Fxx8XeGsQibtkUmDg326I2ekhz5k8ox7Mo+q4cIpd4tLQ0T0Zq2m9RVndamdhdWsF5vEKiCr3mX9A==",
+  "success": true,
+  "projectFilePath": "/Users/rajjoshi/Desktop/C#/SchoolApp/SchoolFormsapp/SchoolFormsapp.csproj",
+  "expectedPackageFiles": [
+    "/Users/rajjoshi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rajjoshi/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/rajjoshi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

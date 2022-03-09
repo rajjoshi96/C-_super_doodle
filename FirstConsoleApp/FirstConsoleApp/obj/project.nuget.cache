@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "njGdOAAFhm6o19NF9JqeFUZgdaEG3W/J7p7x5bXF+ndJfOQ/B0oP/6t9WkfiQXKhSIfrXExfTw3WvjDkW3iK0g==",
+  "success": true,
+  "projectFilePath": "/Users/rajjoshi/Desktop/C#/FirstConsoleApp/FirstConsoleApp/FirstConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/rajjoshi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/rajjoshi/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512",
+    "/Users/rajjoshi/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
